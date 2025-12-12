@@ -117,6 +117,21 @@ temperatura <- 37
 #    - exptemp37/resultados_37/
 ```
 
+## 📚 Cómo citar
+
+Si utilizas este software en tu investigación o proyecto, por favor cita al autor:
+
+**Mario Santiago Lara López** (2025). *BacTrac Tables - Herramienta para procesar datos de BacTrac 4300*. GitHub: https://github.com/marioslara/BactableParser-Bactrac4300-
+
+```bibtex
+@software{lara_bactractables_2025,
+  author = {Lara López, Mario Santiago},
+  title = {BacTrac Tables: Herramienta para procesar datos de BacTrac 4300},
+  year = {2025},
+  url = {https://github.com/marioslara/BactableParser-Bactrac4300-}
+}
+```
+
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes sugerencias de mejora, no dudes en abrir un issue o pull request.
@@ -127,7 +142,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 👤 Autor
 
-Mario Lara López
+**Mario Santiago Lara López**
 
 ## 📧 Contacto
 
