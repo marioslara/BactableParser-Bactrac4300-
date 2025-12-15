@@ -7,8 +7,8 @@ Herramienta en R para procesar y organizar automáticamente los datos generados 
 Este proyecto permite procesar múltiples archivos `.txt` generados por el BacTrac 4300 y organizarlos en tablas estructuradas que facilitan el análisis estadístico posterior. El script separa automáticamente:
 
 - **Metadatos**: Información del experimento (temperatura, tiempo de inicio, parámetros de calibración, etc.)
-- **M-table**: Medidas de impedancia a lo largo del tiempo
-- **E-table**: Medidas de conductancia a lo largo del tiempo
+- **M-table**: Medidas de impedancia del medio a lo largo del tiempo
+- **E-table**: Medidas de impedancia del electrodo a lo largo del tiempo
 
 ## ✨ Características
 
